@@ -3,3 +3,6 @@ psdrive
 dir
 get-process
 Get-PSSession
+
+
+Need to work on remote commands
