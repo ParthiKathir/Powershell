@@ -1,3 +1,5 @@
 invoke-command
 psdrive
 dir
+get-process
+Get-PSSession
